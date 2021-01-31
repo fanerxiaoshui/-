@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"GameAction_Editor": "UE4Editor-GameAction_Editor.dll",
+		"GameAction_Runtime": "UE4Editor-GameAction_Runtime.dll"
+	}
+}
